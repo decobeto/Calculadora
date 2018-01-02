@@ -1,0 +1,21 @@
+body {
+	margin: 50px  670px;
+}
+
+table#calculadora th {
+  padding: 40px;
+  border-style: solid;
+  border-width: 2px;
+}
+
+#calculadora {
+  -webkit-user-select: none;  
+  -moz-user-select: none;     
+  -ms-user-select: none;      
+  user-select: none;                
+}
+
+input#tela{
+	height: 250px;
+	width: 380px;
+}
